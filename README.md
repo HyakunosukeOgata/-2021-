@@ -1,2 +1,2 @@
 # -2021-
-[2021] [ 視訊壓縮技術、標準與實務 ]  [作業、閱讀以及期末專題]
+[2021] [Video Compression Techniques, Standards, and Practice] [Homework, Reading, and Final Project]
